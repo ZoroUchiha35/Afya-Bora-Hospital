@@ -2,11 +2,11 @@
 
 ## SQL CODE
 
--- Create the database
+- Create the database
 CREATE DATABASE IF NOT EXISTS PatientData;
 USE PatientData;
 
--- Table 1: patients (for Task 1 - Patient Registration)
+- Table 1: patients (for Task 1 - Patient Registration)
 CREATE TABLE IF NOT EXISTS patients (
     id INT(6) UNSIGNED AUTO_INCREMENT PRIMARY KEY,
     first_name VARCHAR(50) NOT NULL,
@@ -18,7 +18,7 @@ CREATE TABLE IF NOT EXISTS patients (
     registration_date TIMESTAMP DEFAULT CURRENT_TIMESTAMP
 );
 
--- Insert sample data for patients table
+- Insert sample data for patients table
 INSERT INTO patients (first_name, last_name, id_number, gender, diagnosis, drug) VALUES
 ('John', 'Mwangi', '12345678', 'male', 'Malaria', 'Artemether-Lumefantrine'),
 ('Mary', 'Wanjiku', '87654321', 'female', 'Hypertension', 'Lisinopril'),
@@ -32,7 +32,7 @@ INSERT INTO patients (first_name, last_name, id_number, gender, diagnosis, drug)
 ('Esther', 'Wambui', '89012345', 'female', 'Diabetes Type 2', 'Metformin');
 
 <br><br>
--- Table 2: malaria_registration (for Task 2 - Malaria Research)
+- Table 2: malaria_registration (for Task 2 - Malaria Research)
 CREATE TABLE IF NOT EXISTS malaria_registration (
     id INT(6) UNSIGNED AUTO_INCREMENT PRIMARY KEY,
     first_name VARCHAR(50) NOT NULL,
@@ -44,7 +44,7 @@ CREATE TABLE IF NOT EXISTS malaria_registration (
     registration_date TIMESTAMP DEFAULT CURRENT_TIMESTAMP
 );
 
--- Insert sample data for malaria_registration table
+- Insert sample data for malaria_registration table
 INSERT INTO malaria_registration (first_name, second_name, phone_number, gender, age, password) VALUES
 ('Brian', 'Otieno', '0712345678', 'male', 28, 'password123'),
 ('Lucy', 'Wanjiru', '0723456789', 'female', 32, 'secure456'),
