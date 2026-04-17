@@ -1,5 +1,40 @@
 # WellSpring Hospital
 
+# WellSpring Hospital Management System
+
+![WellSpring Hospital](images/logo.png)
+
+## 📋 Overview
+
+WellSpring Hospital Management System is a comprehensive web-based healthcare management solution designed to streamline hospital operations, patient management, and service delivery. The system provides an intuitive interface for managing departments, services, patient registrations, and career opportunities.
+
+## 🏥 Features
+
+### Core Functionality
+- **Patient Registration System** - Register and manage patient records with diagnosis and prescription tracking
+- **Department Management** - View and manage hospital departments (Emergency, Cardiology, Pediatrics, Surgery)
+- **Services Directory** - Comprehensive listing of hospital services with pricing information
+- **Careers Portal** - Job openings and application management for medical and support staff
+- **Malaria Research Registration** - Specialized registration for malaria research participants
+
+### Key Pages
+| Page | Description |
+|------|-------------|
+| `index.php` | Homepage with hospital overview, statistics, and featured services |
+| `departments.php` | Department details with dynamic content loading |
+| `services.php` | Service listings with availability and pricing tables |
+| `careers.php` | Job openings with requirements and descriptions |
+| `registration.php` | Patient registration form and recent patients table |
+| `malaria_registration.php` | Research participant registration portal |
+
+## 🛠️ Technology Stack
+
+- **Frontend**: HTML5, CSS3, Bootstrap
+- **Backend**: PHP 7.4+
+- **Database**: MySQL
+- **Server**: Apache (XAMPP/WAMP/LAMP recommended)
+
+## 📁 Project Structure
 
 
 
