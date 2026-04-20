@@ -39,8 +39,8 @@ WellSpring Hospital Management System is a comprehensive web-based healthcare ma
 CREATE DATABASE IF NOT EXISTS PatientData;
 USE PatientData;
 
-- Table 1: patients (for Task 1 - Patient Registration) <br><br>
-`CREATE TABLE IF NOT EXISTS patients ( <br>
+- Table 1: patients (for Task 1 - Patient Registration) <br>
+CREATE TABLE IF NOT EXISTS patients ( <br>
     id INT(6) UNSIGNED AUTO_INCREMENT PRIMARY KEY, <br>
     first_name VARCHAR(50) NOT NULL, <br>
     last_name VARCHAR(50) NOT NULL, <br>
@@ -49,7 +49,7 @@ USE PatientData;
     diagnosis TEXT, <br>
     drug VARCHAR(100), <br>
     registration_date TIMESTAMP DEFAULT CURRENT_TIMESTAMP <br>
-);`
+);
 
 - Insert sample data for patients table<br>
 INSERT INTO patients (first_name, last_name, id_number, gender, diagnosis, drug) VALUES
