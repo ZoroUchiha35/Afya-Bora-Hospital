@@ -52,17 +52,17 @@ CREATE TABLE IF NOT EXISTS patients ( <br>
 );
 
 - Insert sample data for patients table<br>
-INSERT INTO patients (first_name, last_name, id_number, gender, diagnosis, drug) VALUES
-('John', 'Mwangi', '12345678', 'male', 'Malaria', 'Artemether-Lumefantrine'),
-('Mary', 'Wanjiku', '87654321', 'female', 'Hypertension', 'Lisinopril'),
-('Peter', 'Odhiambo', '23456789', 'male', 'Diabetes Type 2', 'Metformin'),
-('Jane', 'Akinyi', '98765432', 'female', 'Respiratory Infection', 'Amoxicillin'),
-('David', 'Kipchoge', '34567890', 'male', 'Malaria', 'Artemether-Lumefantrine'),
-('Sarah', 'Achieng', '45678901', 'female', 'Asthma', 'Salbutamol'),
-('James', 'Kamau', '56789012', 'male', 'Hypertension', 'Amlodipine'),
-('Grace', 'Mwende', '67890123', 'female', 'Malaria', 'Artemether-Lumefantrine'),
-('Michael', 'Omondi', '78901234', 'male', 'Pneumonia', 'Amoxicillin'),
-('Esther', 'Wambui', '89012345', 'female', 'Diabetes Type 2', 'Metformin');
+INSERT INTO patients (first_name, last_name, id_number, gender, diagnosis, drug) <br> VALUES
+('John', 'Mwangi', '12345678', 'male', 'Malaria', 'Artemether-Lumefantrine'), <br>
+('Mary', 'Wanjiku', '87654321', 'female', 'Hypertension', 'Lisinopril'), <br>
+('Peter', 'Odhiambo', '23456789', 'male', 'Diabetes Type 2', 'Metformin'), <br>
+('Jane', 'Akinyi', '98765432', 'female', 'Respiratory Infection', 'Amoxicillin'), <br>
+('David', 'Kipchoge', '34567890', 'male', 'Malaria', 'Artemether-Lumefantrine'), <br>
+('Sarah', 'Achieng', '45678901', 'female', 'Asthma', 'Salbutamol'), <br>
+('James', 'Kamau', '56789012', 'male', 'Hypertension', 'Amlodipine'), <br>
+('Grace', 'Mwende', '67890123', 'female', 'Malaria', 'Artemether-Lumefantrine'), <br>
+('Michael', 'Omondi', '78901234', 'male', 'Pneumonia', 'Amoxicillin'), <br>
+('Esther', 'Wambui', '89012345', 'female', 'Diabetes Type 2', 'Metformin'); <br>
 
 <br><br>
 - Table 2: malaria_registration (for Task 2 - Malaria Research)<br>
