@@ -131,12 +131,7 @@ WellSpring Hospital Management System is a comprehensive web-based healthcare ma
 | `registration.php` | Patient registration form and recent patients table |
 | `malaria_registration.php` | Research participant registration portal |
 
-## 🛠️ Technology Stack
 
-- **Frontend**: HTML5, CSS3, Bootstrap
-- **Backend**: PHP 7.4+
-- **Database**: MySQL
-- **Server**: Apache (XAMPP/WAMP/LAMP recommended)
 
 
 
