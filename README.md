@@ -81,7 +81,12 @@ To provide accessible, high-quality healthcare services through innovative techn
 - **Database**: MySQL
 - **Server**: Apache (XAMPP/WAMP/LAMP recommended)
 
+## 🛠️ Technology Stack
 
+- **Frontend**: HTML5, CSS3, Bootstrap
+- **Backend**: PHP 7.4+
+- **Database**: MySQL
+- **Server**: Apache (XAMPP/WAMP/LAMP recommended)
 
 ### Backend Technologies
 | Technology | Version | Purpose |
