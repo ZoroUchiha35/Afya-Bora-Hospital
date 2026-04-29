@@ -15,24 +15,7 @@
 
 ---
 
-## 📑 Table of Contents
 
-- [Overview](#-overview)
-- [Features](#-features)
-- [Screenshots](#-screenshots)
-- [Technology Stack](#-technology-stack)
-- [System Architecture](#-system-architecture)
-- [Project Structure](#-project-structure)
-- [Installation Guide](#-installation-guide)
-- [Database Schema](#-database-schema)
-- [Configuration](#-configuration)
-- [User Manual](#-user-manual)
-- [Security](#-security)
-- [Future Enhancements](#-future-enhancements)
-- [Contributing](#-contributing)
-- [Support](#-support)
-- [License](#-license)
-- [Acknowledgments](#-acknowledgments)
 
 ---
 
