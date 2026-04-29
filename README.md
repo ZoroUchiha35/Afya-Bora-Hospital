@@ -74,15 +74,7 @@ To provide accessible, high-quality healthcare services through innovative techn
 
 ---
 
-## 🛠️ Technology Stack
 
-### Frontend Technologies
-| Technology | Version | Purpose |
-|------------|---------|---------|
-| HTML5 | - | Semantic structure and markup |
-| CSS3 | - | Custom styling and animations |
-| Bootstrap | 4.x | Responsive grid system and components |
-| JavaScript | ES6 | Client-side interactivity |
 
 ### Backend Technologies
 | Technology | Version | Purpose |
