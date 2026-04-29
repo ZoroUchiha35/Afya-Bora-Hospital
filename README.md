@@ -15,10 +15,6 @@
 
 ---
 
-
-
----
-
 ## 📋 Overview
 
 WellSpring Hospital Management System is a robust, web-based healthcare administration platform designed to digitize and streamline hospital operations. Founded in 2022, WellSpring Hospital serves the growing healthcare needs of Nairobi, Kenya, and surrounding regions.
