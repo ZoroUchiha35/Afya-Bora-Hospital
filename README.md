@@ -87,7 +87,6 @@ To provide accessible, high-quality healthcare services through innovative techn
 
 ---
 
-## 🏗️ System Architecture
 
 
 
