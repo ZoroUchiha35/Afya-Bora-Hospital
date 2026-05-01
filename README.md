@@ -108,15 +108,6 @@ To provide accessible, high-quality healthcare services through innovative techn
 
 WellSpring Hospital Management System is a comprehensive web-based healthcare management solution designed to streamline hospital operations, patient management, and service delivery. The system provides an intuitive interface for managing departments, services, patient registrations, and career opportunities.
 
-## 🏥 Features
-
-### Core Functionality
-- **Patient Registration System** - Register and manage patient records with diagnosis and prescription tracking
-- **Department Management** - View and manage hospital departments (Emergency, Cardiology, Pediatrics, Surgery)
-- **Services Directory** - Comprehensive listing of hospital services with pricing information
-- **Careers Portal** - Job openings and application management for medical and support staff
-- **Malaria Research Registration** - Specialized registration for malaria research participants
-
 
 
 
