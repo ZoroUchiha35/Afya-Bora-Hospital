@@ -54,8 +54,6 @@ To provide accessible, high-quality healthcare services through innovative techn
 
 ---
 
-## 🖼️ Screenshots
-
 ### Homepage
 - Hero section with hospital branding
 - Statistics dashboard (15+ years, 50+ doctors, 200+ beds, 10,000+ patients)
