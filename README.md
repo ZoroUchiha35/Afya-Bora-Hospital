@@ -102,10 +102,6 @@ To provide accessible, high-quality healthcare services through innovative techn
 
 
 
-# WellSpring Hospital Management System
-
-
-
 
 
 
