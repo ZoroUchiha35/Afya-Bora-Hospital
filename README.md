@@ -117,15 +117,6 @@ WellSpring Hospital Management System is a comprehensive web-based healthcare ma
 - **Careers Portal** - Job openings and application management for medical and support staff
 - **Malaria Research Registration** - Specialized registration for malaria research participants
 
-### Key Pages
-| Page | Description |
-|------|-------------|
-| `index.php` | Homepage with hospital overview, statistics, and featured services |
-| `departments.php` | Department details with dynamic content loading |
-| `services.php` | Service listings with availability and pricing tables |
-| `careers.php` | Job openings with requirements and descriptions |
-| `registration.php` | Patient registration form and recent patients table |
-| `malaria_registration.php` | Research participant registration portal |
 
 
 
