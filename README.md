@@ -87,26 +87,6 @@ To provide accessible, high-quality healthcare services through innovative techn
 
 ---
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## SQL CODE
 
 - Create the database<br>
