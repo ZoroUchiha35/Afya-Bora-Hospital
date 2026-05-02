@@ -94,7 +94,7 @@ To provide accessible, high-quality healthcare services through innovative techn
 CREATE DATABASE IF NOT EXISTS PatientData;
 USE PatientData;
 ```
-- Table 1: patients (for Task 1 - Patient Registration) <br><br>
+- Table 1: patients (for Task 1 - Patient Registration) <br>
 ```sql
 CREATE TABLE IF NOT EXISTS patients (
     id INT(6) UNSIGNED AUTO_INCREMENT PRIMARY KEY,
