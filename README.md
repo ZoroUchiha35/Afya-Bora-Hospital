@@ -94,6 +94,8 @@ To provide accessible, high-quality healthcare services through innovative techn
 CREATE DATABASE IF NOT EXISTS PatientData;
 USE PatientData;
 ```
+<br>
+
 - Table 1: patients (for Task 1 - Patient Registration) <br>
 ```sql
 CREATE TABLE IF NOT EXISTS patients (
@@ -107,6 +109,8 @@ CREATE TABLE IF NOT EXISTS patients (
     registration_date TIMESTAMP DEFAULT CURRENT_TIMESTAMP
 );
 ```
+<br>
+
 - Insert sample data for patients table
 INSERT INTO patients (first_name, last_name, id_number, gender, diagnosis, drug) VALUES
 ('John', 'Mwangi', '12345678', 'male', 'Malaria', 'Artemether-Lumefantrine'),
