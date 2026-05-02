@@ -112,6 +112,7 @@ CREATE TABLE IF NOT EXISTS patients (
 <br>
 
 - Insert sample data for patients table
+```sql
 INSERT INTO patients (first_name, last_name, id_number, gender, diagnosis, drug) VALUES
 ('John', 'Mwangi', '12345678', 'male', 'Malaria', 'Artemether-Lumefantrine'),
 ('Mary', 'Wanjiku', '87654321', 'female', 'Hypertension', 'Lisinopril'),
@@ -123,7 +124,7 @@ INSERT INTO patients (first_name, last_name, id_number, gender, diagnosis, drug)
 ('Grace', 'Mwende', '67890123', 'female', 'Malaria', 'Artemether-Lumefantrine'),
 ('Michael', 'Omondi', '78901234', 'male', 'Pneumonia', 'Amoxicillin'),
 ('Esther', 'Wambui', '89012345', 'female', 'Diabetes Type 2', 'Metformin');
-
+```
 <br><br>
 - Table 2: malaria_registration (for Task 2 - Malaria Research) <br>
 CREATE TABLE IF NOT EXISTS malaria_registration ( <br>
