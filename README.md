@@ -89,14 +89,14 @@ To provide accessible, high-quality healthcare services through innovative techn
 
 ## SQL CODE
 
-- Create the database<br>
+### Create the database<br>
 ```sql
 CREATE DATABASE IF NOT EXISTS PatientData;
 USE PatientData;
 ```
 <br>
 
-- Table 1: patients (for Task 1 - Patient Registration) <br>
+### Table 1: patients (for Task 1 - Patient Registration) <br>
 ```sql
 CREATE TABLE IF NOT EXISTS patients (
     id INT(6) UNSIGNED AUTO_INCREMENT PRIMARY KEY,
@@ -111,7 +111,7 @@ CREATE TABLE IF NOT EXISTS patients (
 ```
 <br>
 
-- Insert sample data for patients table
+### Insert sample data for patients table
 ```sql
 INSERT INTO patients (first_name, last_name, id_number, gender, diagnosis, drug)
 VALUES  ('John', 'Mwangi', '12345678', 'male', 'Malaria', 'Artemether-Lumefantrine'),
