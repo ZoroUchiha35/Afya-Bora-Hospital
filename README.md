@@ -139,7 +139,7 @@ CREATE TABLE IF NOT EXISTS malaria_registration ( <br>
     password VARCHAR(255) NOT NULL, <br>
     registration_date TIMESTAMP DEFAULT CURRENT_TIMESTAMP <br>
 );
-
+```
 - Insert sample data for malaria_registration table <br>
 INSERT INTO malaria_registration (first_name, second_name, phone_number, gender, age, password) <br> VALUES
 ('Brian', 'Otieno', '0712345678', 'male', 28, 'password123'), <br>
