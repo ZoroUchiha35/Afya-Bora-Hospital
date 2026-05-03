@@ -141,6 +141,7 @@ CREATE TABLE IF NOT EXISTS malaria_registration (
 );
 ```
 - Insert sample data for malaria_registration table <br>
+```sql
 INSERT INTO malaria_registration (first_name, second_name, phone_number, gender, age, password) <br> VALUES
 ('Brian', 'Otieno', '0712345678', 'male', 28, 'password123'), <br>
 ('Lucy', 'Wanjiru', '0723456789', 'female', 32, 'secure456'), <br>
@@ -152,3 +153,7 @@ INSERT INTO malaria_registration (first_name, second_name, phone_number, gender,
 ('Rose', 'Akoth', '0789012345', 'female', 23, 'volunteer99'), <br>
 ('Patrick', 'Njoroge', '0790123456', 'male', 52, 'research567'), <br>
 ('Catherine', 'Adhiambo', '0701234567', 'female', 31, 'password789');
+```
+
+
+
