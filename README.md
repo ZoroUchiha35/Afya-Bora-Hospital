@@ -124,7 +124,7 @@ VALUES  ('John', 'Mwangi', '12345678', 'male', 'Malaria', 'Artemether-Lumefantri
 ```
 <br><br>
 
-- Table 2: malaria_registration (for Task 2 - Malaria Research) <br>
+### Table 2: malaria_registration (for Task 2 - Malaria Research) <br>
 ```sql
 CREATE TABLE IF NOT EXISTS malaria_registration (
     id INT(6) UNSIGNED AUTO_INCREMENT PRIMARY KEY,
