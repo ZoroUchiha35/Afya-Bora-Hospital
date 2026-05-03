@@ -126,7 +126,9 @@ VALUES  ('John', 'Mwangi', '12345678', 'male', 'Malaria', 'Artemether-Lumefantri
         ('Esther', 'Wambui', '89012345', 'female', 'Diabetes Type 2', 'Metformin');
 ```
 <br><br>
+
 - Table 2: malaria_registration (for Task 2 - Malaria Research) <br>
+```sql
 CREATE TABLE IF NOT EXISTS malaria_registration ( <br>
     id INT(6) UNSIGNED AUTO_INCREMENT PRIMARY KEY, <br>
     first_name VARCHAR(50) NOT NULL, <br>
