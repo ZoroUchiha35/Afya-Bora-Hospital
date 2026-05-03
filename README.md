@@ -96,7 +96,7 @@ USE PatientData;
 ```
 <br>
 
-### Table 1: patients (for Task 1 - Patient Registration) <br>
+### Table 1: patients (for Patient Registration) <br>
 ```sql
 CREATE TABLE IF NOT EXISTS patients (
     id INT(6) UNSIGNED AUTO_INCREMENT PRIMARY KEY,
@@ -111,7 +111,7 @@ CREATE TABLE IF NOT EXISTS patients (
 ```
 <br>
 
-### Insert sample data for patients table
+#### Insert sample data for patients table
 ```sql
 INSERT INTO patients (first_name, last_name, id_number, gender, diagnosis, drug)
 VALUES  ('John', 'Mwangi', '12345678', 'male', 'Malaria', 'Artemether-Lumefantrine'),
@@ -124,7 +124,7 @@ VALUES  ('John', 'Mwangi', '12345678', 'male', 'Malaria', 'Artemether-Lumefantri
 ```
 <br><br>
 
-### Table 2: malaria_registration (for Task 2 - Malaria Research) <br>
+### Table 2: malaria_registration (for Malaria Research) <br>
 ```sql
 CREATE TABLE IF NOT EXISTS malaria_registration (
     id INT(6) UNSIGNED AUTO_INCREMENT PRIMARY KEY,
