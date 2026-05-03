@@ -109,7 +109,6 @@ CREATE TABLE IF NOT EXISTS patients (
     registration_date TIMESTAMP DEFAULT CURRENT_TIMESTAMP
 );
 ```
-<br>
 
 #### Insert sample data for patients table
 ```sql
@@ -137,7 +136,7 @@ CREATE TABLE IF NOT EXISTS malaria_registration (
     registration_date TIMESTAMP DEFAULT CURRENT_TIMESTAMP
 );
 ```
-### Insert sample data for malaria_registration table <br>
+#### Insert sample data for malaria_registration table <br>
 ```sql
 INSERT INTO malaria_registration (first_name, second_name, phone_number, gender, age, password) VALUES
 ('Brian', 'Otieno', '0712345678', 'male', 28, 'password123'),
