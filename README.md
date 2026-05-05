@@ -86,7 +86,7 @@ To provide accessible, high-quality healthcare services through innovative techn
 - **Browser Support**: Chrome, Firefox, Safari, Edge
 
 ---
-
+---
 ## SQL CODE
 
 ### Create the database<br>
