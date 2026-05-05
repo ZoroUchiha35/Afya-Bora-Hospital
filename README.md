@@ -86,6 +86,7 @@ To provide accessible, high-quality healthcare services through innovative techn
 - **Browser Support**: Chrome, Firefox, Safari, Edge
 
 ---
+
 <br>
 
 <img width="1352" height="613" alt="image" src="https://github.com/user-attachments/assets/2301df7e-ebd9-42a8-8442-51bba3051fcb" />
@@ -93,6 +94,7 @@ To provide accessible, high-quality healthcare services through innovative techn
 #### *Image shows a fraction of the website (WellSpring Hospital)*
 
 <br>
+
 ---
 
 ## SQL CODE
