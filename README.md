@@ -94,6 +94,7 @@ To provide accessible, high-quality healthcare services through innovative techn
 
 <br>
 ---
+
 ## SQL CODE
 
 ### Create the database<br>
