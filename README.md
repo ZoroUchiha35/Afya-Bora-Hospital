@@ -159,6 +159,6 @@ INSERT INTO malaria_registration (first_name, second_name, phone_number, gender,
 ```
 
 <br><br>
-Copyright © 2024 WellSpring Hospital. All rights reserved.
+Copyright © 2026 WellSpring Hospital. All rights reserved.
 
 
