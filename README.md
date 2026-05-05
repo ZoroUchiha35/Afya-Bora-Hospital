@@ -148,5 +148,6 @@ INSERT INTO malaria_registration (first_name, second_name, phone_number, gender,
 ('Catherine', 'Adhiambo', '0701234567', 'female', 31, 'password789');
 ```
 
+Copyright © 2024 WellSpring Hospital. All rights reserved.
 
 
