@@ -88,6 +88,7 @@ To provide accessible, high-quality healthcare services through innovative techn
 ---
 
 <img width="1352" height="613" alt="image" src="https://github.com/user-attachments/assets/2301df7e-ebd9-42a8-8442-51bba3051fcb" />
+
 #### *Image shows a fraction of the website (WellSpring Hospital)*
 
 ---
